@@ -26,15 +26,84 @@ This course may be taken as 21G.591, which indicates the Japanese language optio
 Course Requirements and Grading Distribution
 --------------------------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation | 15% |
-| Pecha Kucha | 5% |
-| Microtheme Response Papers | 10% |
-| Essay 1 | 20% |
-| Essay 2 | 15% |
-| Oral Presentations | 10% |
-| Final Paper | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pecha Kucha
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Microtheme Response Papers
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 1
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 2
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Paper
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 There will be no final exam. For more detail on the above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
