@@ -328,7 +328,7 @@ Anime and Collaborative Creativity, cont'd
 Either attend class or attend Harvard University Professor [Theodore C. Bestor](http://scholar.harvard.edu/bestor)'s lecture "Washoku on the World Stage: UNESCO and the Promotion of Japanese Cuisine."
 {{< tdclose >}}
 {{< tdopen >}}
-Bestor, Theodore C. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["How Sushi Went Global." (PDF - 5.4MB)](http://scholar.harvard.edu/files/bestor/files/bestor_2000_-_how_sushi_went_global.pdf?m=1431455874) _Foreign Policy_ 121 (2000): 54–63.
+Bestor, Theodore C. ["How Sushi Went Global." (PDF - 5.4MB)](http://scholar.harvard.edu/files/bestor/files/bestor_2000_-_how_sushi_went_global.pdf?m=1431455874) _Foreign Policy_ 121 (2000): 54–63.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -428,7 +428,7 @@ Galbraith, Patrick W. "[Bishōjo Games: 'Techno-Intimacy' and the Virtually Huma
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262516068) Ito, Mizuko. "Gender Dynamics of the Japanese Media Mix." Chapter 7 in _Beyond Barbie & Mortal Combat: New Perspectives on Gender and Gaming_. Edited by Yasmin B. Kafai, Carrie Heeter, et al. MIT Press, 2011. ISBN: 9780262516068.
 
-Consalvo, Mia. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Visiting the Floating World: Tracing a Cultural History of Games Through Japan and America" (PDF)](https://pdfs.semanticscholar.org/c604/785f3f8b65998bfc8a84e9e4af974a248b45.pdf?_ga=2.27916090.763302225.1564086833-672817412.1563980296) Ohio University.
+Consalvo, Mia. ["Visiting the Floating World: Tracing a Cultural History of Games Through Japan and America" (PDF)](https://pdfs.semanticscholar.org/c604/785f3f8b65998bfc8a84e9e4af974a248b45.pdf?_ga=2.27916090.763302225.1564086833-672817412.1563980296) Ohio University.
 
 
 {{< tdclose >}}
